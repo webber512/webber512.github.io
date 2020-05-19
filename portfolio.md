@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Home
+path: portfolio
+title: Portfolio
 ---
 
 Welcome to my site!
