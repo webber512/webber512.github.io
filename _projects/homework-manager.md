@@ -10,7 +10,8 @@ description: A Spring Boot application designed to be a central hub to manage ho
 
 Homework Manager is designed to be a central hub to manage homework assignments and academic related tasks. Featuring multiple display types, a mobile friendly version, and an easy to use interface, Homework Manager can replace all the annyoing post-it notes and paper checklists.
 
-INSERT PHOTO GIF HERE
+<img src="/assets/img/homeworkmanagerdemo.gif">
+
 ## Features
 Homework Manager currently does the following:
 * Add and color code all of your courses
@@ -26,3 +27,8 @@ Homework Manager currently does the following:
 * Data export
 * Data import from Excel, CSV, etc
 * Email Notifications
+
+<center>
+<button type="button" class="btn btn-outline-primary"><a href="https://github.com/webber512/homework-manager">GitHub Repository</a></button>
+<button type="button" class="btn btn-outline-primary"><a href="https://github.com/webber512/homework-manager/releases">Releases</a></button>
+</center>
