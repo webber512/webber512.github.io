@@ -40,3 +40,4 @@ exclude:
   - update_boostrap.sh
 
 theme: jekyll-theme-cayman
+markdown: kramdown
