@@ -8,7 +8,7 @@ photo: homeworkmanager1.png
 description: A Spring Boot application designed to be a central hub to manage homework assignments and academic related tasks. Open source and in development!
 ---
 
-Homework Manager is designed to be a central hub to manage homework assignments and academic related tasks. Featuring multiple display types, a mobile friendly version, and an easy to use interface, Homework Manager can replace all the annyoing post-it notes and paper checklists.
+Homework Manager is designed to be a central hub to manage homework assignments and academic related tasks. Featuring multiple display types, a mobile friendly version, and an easy to use interface, Homework Manager can replace all the annyoing post-it notes and paper checklists. This project is in active development, and many more features are planned to make it a viable all-in-one solution for all academic solutions. Additionally, this project is open source on GitHub, feel free to contribute and submit a pull request if you'd like!
 
 <div class="row">
 <div class="col-md-6">
