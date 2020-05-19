@@ -37,3 +37,8 @@ body {
 }
 
 // Containers ==================================================================
+.card-img-top {
+  max-height: 400px;
+  min-height: 150px;
+  object-fit: cover;
+}
