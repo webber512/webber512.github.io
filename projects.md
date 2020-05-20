@@ -7,6 +7,7 @@ title: Projects
 
 <div class="card-deck">
 {% for project in site.projects %}
+ <a href="{{ project.url }}">
   <div class="card rounded">
     <img class="card-img-top" src="../assets/img/{{project.photo}}" alt="Card image cap">
     <div class="card-body">
@@ -15,5 +16,6 @@ title: Projects
       <p class="card-text"><small class="text-muted">{{ project.date | date: '%B %d, %Y'}}</small></p>
     </div>
   </div>
+  </a>
 {% endfor %}
 </div>
