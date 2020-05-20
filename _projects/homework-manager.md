@@ -38,6 +38,7 @@ Homework Manager currently does the following:
 <img src="/assets/img/homeworkmanagerdemo.gif">
 </div>
 Version 1.0 of the Homework Manager application 
+<br/>
 </div>
 </div>
 
