@@ -8,7 +8,7 @@ title: Projects
 <div class="card-deck">
 {% for project in site.projects %}
  <a href="{{ project.url }}">
-  <div class="card rounded">
+  <div class="card rounded mb-3" style="min-width: 18rem; max-width: 24rem;">
     <img class="card-img-top" src="../assets/img/{{project.photo}}" alt="Card image cap">
     <div class="card-body">
       <h4 class="card-title"><a href="{{ project.url }}">{{ project.name }}</a></h4>
