@@ -23,6 +23,6 @@ If you are interested in contributing to the project, check it out on GitHub. I 
 * [Centers for Disease Control](https://cdc.gov)
 
 <center>
-<button type="button" class="btn btn-outline-primary"><a href="https://github.com/webber512/covid-data-library">GitHub Repository</a></button>
-<button type="button" class="btn btn-outline-primary"><a href="https://github.com/webber512/covid-data-library/releases">Releases (.jar)</a></button>
+{% include elements/button.html link="https://github.com/webber512/covid-data-library" text="GitHub Repository" %}
+{% include elements/button.html link="https://github.com/webber512/covid-data-library/releases" text="Releases (.jar)" %}
 </center>

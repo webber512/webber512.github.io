@@ -44,6 +44,6 @@ Version 1.0 of the Homework Manager application
 
 
 <center>
-<button type="button" class="btn btn-outline-primary"><a href="https://github.com/webber512/homework-manager">GitHub Repository</a></button>
-<button type="button" class="btn btn-outline-primary"><a href="https://github.com/webber512/homework-manager/releases">Releases</a></button>
+{% include elements/button.html link="https://github.com/webber512/homework-manager" text="GitHub Repository" %}
+{% include elements/button.html link="https://github.com/webber512/homework-manager/releases" text="View Releases" %}
 </center>
