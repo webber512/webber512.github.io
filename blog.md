@@ -3,5 +3,11 @@ layout: page
 path: blog
 title: Blog
 ---
+  
+<div class="card-deck">
 
-Welcome to my blog!
+  {% for post in site.posts %}
+    {% include blog/blog-card.html %}
+  {% endfor %}
+  
+</div>
