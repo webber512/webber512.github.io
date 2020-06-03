@@ -20,7 +20,7 @@ Recenntly, I started running Folding@home on my two computers. While they might 
     * Memory: 8 GB DDR4
     * OS: Windows 10 Home
 
-If you'd like more information about Folding@home, check out their website at [https://foldingathome.org/](https://foldingathome.org/), or check out the buttons below.
+If you'd like more information about Folding@home, check out their website at [https://foldingathome.org/](https://foldingathome.org/), or check out the links on the buttons below.
 
 <center>
 {% include elements/button.html link="https://foldingathome.org/" text="Folding@home Website" %}
