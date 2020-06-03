@@ -20,9 +20,8 @@ Recenntly, I started running Folding@home on my two computers. While they might 
     * Memory: 8 GB DDR4
     * OS: Windows 10 Home
 
-As of 8:00 PM on 6/2, my current contributions to Folding@home are:
-* Total Score: 37,382 points
-* Total WU: 251 units
+As of 8:00 PM on 6/2, my current contributions to Folding@home are:<br/>
+<img src="https://folding.extremeoverclocking.com/sigs/sigimage.php?u=1166249&bg=1"/>
 
 If you'd like more information about Folding@home, check out their website at [https://foldingathome.org/](https://foldingathome.org/), or check out the links on the buttons below.
 
