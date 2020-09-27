@@ -5,7 +5,7 @@ url: covid-data-library
 title: COVID Data Wrapper
 date: 2020-05-19
 photo: covid.jpg
-description: A Java library to connect with the COVID Tracking Project to provide easy access to Coronavirus statistics in the United States.
+description: A Java library to connect with the COVID Tracking Project to provide easy access to Coronavirus statistics in the United States. Data is pulled on a daily basis and displayed in various user-friendly views. This project is in active development.
 ---
 
 Written to help power projects get accurate, timely, and relevant data regarding the COVID-19 virus. This project serves as a Java wrapper to get data from The Covid Tracking Project, a well-known, reputable, and reliable organization.

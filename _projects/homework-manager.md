@@ -3,7 +3,7 @@ name: Homework Manager
 layout: project
 url: homeworkmanager
 title: Homework Manager
-date: 2020-05-19
+date: 2020-09-26
 photo: homeworkmanager1.png
 description: A Spring Boot application designed to be a central hub to manage homework assignments and academic related tasks. Open source and in development!
 ---
